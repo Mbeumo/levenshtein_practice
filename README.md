@@ -2,8 +2,7 @@
 ***
 
 ## Task
-- i had to create a small function that permit one way comparison between different string values.the project check each characters making up the string and easily spot out the number of differences
-
+- This project involved creating a small function that performs a one-way comparison between two strings. The function checks each character sequentially and identifies differences, making it easier to evaluate similarity and detect mismatches.
 ## Description
 - To solve the issue ,i used the while loop from the wwhile loop compares the different word relative to the index in the while loop which i used was 
 - I kept on trying and testing each time to rest assure that it is working.For sure have ran so many time in some infinite loop and had to debug ,but i was a quite interesting experience 
@@ -13,7 +12,7 @@
 ```
 ./my_project argument1 argument2
 ```
-- could be used to easily compare text for uniformity and spot the validation on whether an error has been unvoluntarily added while copying text content manually.
+- This tool can be used to compare text strings for consistency and identify accidental modifications introduced during manual copying, editing, or data entry processes, helping maintain text accuracy and validation.
 
 ### The Core Team
 Mbeumo Donfang Philippe Briand
