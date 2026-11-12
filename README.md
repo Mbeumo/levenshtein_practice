@@ -17,6 +17,7 @@ TODO - How does it work?
 ```
 ./my_project argument1 argument2
 ```
+- could be used to easily compare text for uniformity and spot the validation on whether an error has been unvoluntarily added while copying text content manually.
 
 ### The Core Team
 
